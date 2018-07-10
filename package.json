@@ -1,0 +1,27 @@
+{
+  "name": "toppay",
+  "version": "1.0.0",
+  "description": "TopPay.io payment gate with blockchain technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toppay-io/Nodejs.git"
+  },
+  "keywords": [
+    "TopPay",
+    "TopPay.io",
+    "Blockchain",
+    "ETH",
+    "Wallet",
+    "Crypto"
+  ],
+  "author": "TopPay.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Toppay-io/Nodejs/issues"
+  },
+  "homepage": "https://github.com/Toppay-io/Nodejs#readme"
+}
