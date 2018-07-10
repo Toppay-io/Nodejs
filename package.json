@@ -1,6 +1,6 @@
 {
   "name": "toppay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TopPay.io payment gate with blockchain technology",
   "main": "index.js",
   "scripts": {
